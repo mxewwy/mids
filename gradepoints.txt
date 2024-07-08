@@ -1,0 +1,4 @@
+Ivanov Ivan:4.32
+Petrov Pyotr:4.91
+Sergeiev Sergej:3.42
+Maksimov Maksim:4.57
